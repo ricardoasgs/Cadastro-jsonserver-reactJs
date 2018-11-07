@@ -1,0 +1,29 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Teste1",
+      "email": "teste1@hotmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Teste2",
+      "email": "teste2@hotmail.com"
+    },
+    {
+      "id": 3,
+      "name": "Teste3",
+      "email": "teste3@hotmail.com"
+    },
+    {
+      "id": 4,
+      "name": "Teste4",
+      "email": "teste4@hotmail.com"
+    },
+    {
+      "name": "ricardoasgs",
+      "email": "ricardoaugustogarcia@hotmail.com",
+      "id": 5
+    }
+  ]
+}
